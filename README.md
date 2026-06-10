@@ -1,4 +1,4 @@
-##Note: This is the current iteration and has to be updated
+## Note: This is the current iteration and has to be updated
 
 # Wix Package Manager
 
