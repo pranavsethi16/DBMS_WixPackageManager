@@ -1,3 +1,5 @@
+##Note: This is the current iteration and has to be updated
+
 # Wix Package Manager
 
 A package management and dependency tracking system built using MySQL, Python, and Streamlit. The project simulates how package managers maintain software environments, resolve dependencies, detect conflicts, and ensure database consistency through triggers and transactions.
